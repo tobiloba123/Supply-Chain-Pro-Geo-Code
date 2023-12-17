@@ -1,0 +1,24 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"gh_geo_code"},
+{"type":"table","name":"divisions","database":"gh_geo_code","data":
+[
+{"id":"1","name":"AHAFO","gh_name":"AHAFO","url":"#"},
+{"id":"2","name":"ASHANTI","gh_name":"KUMASI","url":"#"},
+{"id":"3","name":"BONO EAST	","gh_name":"TECHIMAN","url":"#"},
+{"id":"4","name":"BRONG AHAFO	","gh_name":"SUNYANI","url":"#"},
+{"id":"5","name":"CENTRAL","gh_name":"CAPE COAST","url":"#"},
+{"id":"6","name":"EASTERN","gh_name":"KOFORIDUA","url":"#"},
+{"id":"7","name":"GREATER ACCRA","gh_name":"ACCRA","url":"#"},
+{"id":"8","name":"NORTH EAST","gh_name":"NALERIGU","url":"#"},
+{"id":"9","name":"NORTHERN","gh_name":"TAMALE","url":"#"},
+{"id":"10","name":"OTI","gh_name":"DAMBAI","url":"#"},
+{"id":"11","name":"SAVANNAH","gh_name":"DAMONGO","url":"#"},
+{"id":"12","name":"UPPER EAST","gh_name":"BOLGATANGA","url":"#"},
+{"id":"13","name":"UPPER WEST","gh_name":"WA","url":"#"},
+{"id":"14","name":"VOLTA","gh_name":"HO","url":"#"},
+{"id":"15","name":"WESTERN","gh_name":"SEKONDI-TAKORADI","url":"#"},
+{"id":"16","name":"WESTERN NORTH","gh_name":"SEFWI WIASO","url":"#"}
+]
+}
+]
