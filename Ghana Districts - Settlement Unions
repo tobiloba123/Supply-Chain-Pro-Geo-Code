@@ -1,0 +1,24 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"gh_geo_code"},
+{"type":"table","name":"unions","database":"gh_geo_code","data":
+[
+{"id":"1","upazilla_id":"1","name":"Ahafo Region Union","bn_name":"Ahafo Region","url":"#"},
+{"id":"2","upazilla_id":"2","name":"Ashanti Region Union","bn_name":"Ashanti Region","url":"#"},
+{"id":"3","upazilla_id":"3","name":"Bono Region Union","bn_name":"Bono Region","url":"#"},
+{"id":"4","upazilla_id":"4","name":"Bono East Region Union","bn_name":"Bono East Region","url":"#"},
+{"id":"5","upazilla_id":"5","name":"Central Region Union","bn_name":"Central Region","url":"#"},
+{"id":"6","upazilla_id":"6","name":"Eastern Region Union","bn_name":"Eastern Region","url":"#"},
+{"id":"7","upazilla_id":"7","name":"Greater Accra Region Union","bn_name":"Greater Accra Region","url":"#"},
+{"id":"8","upazilla_id":"8","name":"Northern Region Union","bn_name":"Northern Region","url":"#"},
+{"id":"9","upazilla_id":"9","name":"North East Region Union","bn_name":"North East Region","url":"#"},
+{"id":"10","upazilla_id":"10","name":"Oti Region Union","bn_name":"Oti Region","url":"#"},
+{"id":"11","upazilla_id":"11","name":"Savannah Region Union","bn_name":"Savannah Region","url":"#"},
+{"id":"12","upazilla_id":"12","name":"Upper East Region Union","bn_name":"Upper East Region","url":"#"},
+{"id":"13","upazilla_id":"13","name":"Upper West Region Union","bn_name":"Upper West Region","url":"#"},
+{"id":"14","upazilla_id":"14","name":"Volta Region Union","bn_name":"Volta Region","url":"#"},
+{"id":"15","upazilla_id":"15","name":"Western Region Union","bn_name":"Western Region","url":"#"},
+{"id":"16","upazilla_id":"16","name":"Western North Region Union","bn_name":"Western North Region","url":"#"}
+]
+}
+]
